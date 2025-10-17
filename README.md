@@ -1,6 +1,6 @@
 # test_dataEn
 
-- AnalyticalQueries.sql
+- AnalyticalQueries.sql - аналитические запросы
 - CreateBonus.sql - Процедура для подсчета премии
 - CreateTable.sql - Создаю таблицу и изменяю
 - UpdateBonus.sql - Заполнение таблицы с премиями по всем месяцам
